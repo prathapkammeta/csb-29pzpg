@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://prathapkammeta.github.io/csb-29pzpg/static/css/main.70d15413.chunk.css",
+    "main.js": "https://prathapkammeta.github.io/csb-29pzpg/static/js/main.0030c96a.chunk.js",
+    "main.js.map": "https://prathapkammeta.github.io/csb-29pzpg/static/js/main.0030c96a.chunk.js.map",
+    "runtime-main.js": "https://prathapkammeta.github.io/csb-29pzpg/static/js/runtime-main.a440803c.js",
+    "runtime-main.js.map": "https://prathapkammeta.github.io/csb-29pzpg/static/js/runtime-main.a440803c.js.map",
+    "static/js/2.e7a16713.chunk.js": "https://prathapkammeta.github.io/csb-29pzpg/static/js/2.e7a16713.chunk.js",
+    "static/js/2.e7a16713.chunk.js.map": "https://prathapkammeta.github.io/csb-29pzpg/static/js/2.e7a16713.chunk.js.map",
+    "index.html": "https://prathapkammeta.github.io/csb-29pzpg/index.html",
+    "precache-manifest.aafc10649c18b6fc20dbc69a0f9d540f.js": "https://prathapkammeta.github.io/csb-29pzpg/precache-manifest.aafc10649c18b6fc20dbc69a0f9d540f.js",
+    "service-worker.js": "https://prathapkammeta.github.io/csb-29pzpg/service-worker.js",
+    "static/css/main.70d15413.chunk.css.map": "https://prathapkammeta.github.io/csb-29pzpg/static/css/main.70d15413.chunk.css.map",
+    "static/js/2.e7a16713.chunk.js.LICENSE.txt": "https://prathapkammeta.github.io/csb-29pzpg/static/js/2.e7a16713.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a440803c.js",
+    "static/js/2.e7a16713.chunk.js",
+    "static/css/main.70d15413.chunk.css",
+    "static/js/main.0030c96a.chunk.js"
+  ]
+}
